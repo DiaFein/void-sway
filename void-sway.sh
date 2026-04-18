@@ -18,7 +18,7 @@ sudo xbps-install -Sy \
   dbus elogind \
   polkit-gnome \
   grim slurp wl-clipboard \
-  gtk3 gtk4 \
+  gtk+3 gtk4 gtk-layer-shell gtk4-layer-s \
   gsettings-desktop-schemas \
   pavucontrol \
   font-awesome cantarell-fonts nerd-fonts \
